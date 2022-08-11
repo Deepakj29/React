@@ -1,0 +1,63 @@
+.header{
+  background-color:dimgray;
+}
+.im>[src]{
+  width:10rem;
+  height: 10rem;
+  margin-top: 20px;
+}
+.detail>button{
+  border: 0px;
+}
+.buttom>button{
+  border:0px;
+  margin: 10px 2px;
+  color: white;
+  padding: 10px 10px ;
+}
+
+.ca{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding:20px;
+ 
+}
+.ca>.card{
+  width:20rem;
+  margin: 10px;
+  
+}
+
+.about{
+  background-color:darkgray;
+}
+
+.ca>[src]{
+  width:18rem;
+}
+.contact{
+  background-color:dimgray;
+  color: antiquewhite;
+
+}
+.fo{
+  text-align: center;
+  padding: 20px;
+
+}
+.footr{
+  background-color:grey;
+  width: 30rem;
+}
+.foot{
+  background-color:darkgrey;
+  width: 30rem; 
+}
+.ff{
+  display:flex;
+  flex-wrap: wrap;
+  column-gap: 30px;
+  justify-content: center;
+  margin: 30px;  
+}
